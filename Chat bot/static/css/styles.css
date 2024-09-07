@@ -8,7 +8,6 @@ body {
     height: 100vh;
     margin: 0;
 }
-
 #chat-container {
     display: flex;
     justify-content: center;
